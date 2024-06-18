@@ -87,21 +87,13 @@ Answer the following questions based on your understanding of the installation a
       ![vs code parts](./screenshots/VScode%20parts.png)
 
       #### *Functions of the Different parts of the VS CODE.*
-      i. **Activity Bar**
+      i. **Activity Bar** - The Activity Bar in VS Code provides quick access to essential views and functionalities like file navigation, search, source control management, debugging, and extensions management. It organizes core features into easily accessible icons, enhancing workflow efficiency within the editor.
 
-         The Activity Bar in VS Code provides quick access to essential views and functionalities like file navigation, search, source control management, debugging, and extensions management. It organizes core features into easily accessible icons, enhancing workflow efficiency within the editor.
+      ii. **Side Bar** - The VS Code Side Bar displays detailed information and interactive controls for the currently selected view from the Activity Bar, such as file navigation, search results, source control management, and debugging. It enhances productivity by providing easy access to essential tools and functionalities within the editor.
 
-      ii. **Side Bar**
-
-         The VS Code Side Bar displays detailed information and interactive controls for the currently selected view from the Activity Bar, such as file navigation, search results, source control management, and debugging. It enhances productivity by providing easy access to essential tools and functionalities within the editor.
-
-      iii. **Editor Group**
-
-         The Editor Group in VS Code is the central workspace where multiple files can be opened simultaneously in tabs or split views, facilitating efficient code editing and navigation within the editor. It supports syntax highlighting, code completion, and seamless integration with various programming languages and extensions for enhanced development productivity.
+      iii. **Editor Group** - The Editor Group in VS Code is the central workspace where multiple files can be opened simultaneously in tabs or split views, facilitating efficient code editing and navigation within the editor. It supports syntax highlighting, code completion, and seamless integration with various programming languages and extensions for enhanced development productivity.
       
-      iv. **Status Bar**
-      
-         The Status Bar in VS Code, located at the bottom of the window, provides real-time information about the current workspace, including Git branch status, file encoding, line and column numbers, and debugging information. It also offers controls for settings like language mode and provides notifications for background tasks and errors, enhancing user awareness and productivity while coding.
+      iv. **Status Bar** - The Status Bar in VS Code, located at the bottom of the window, provides real-time information about the current workspace, including Git branch status, file encoding, line and column numbers, and debugging information. It also offers controls for settings like language mode and provides notifications for background tasks and errors, enhancing user awareness and productivity while coding.
 
 4. Command Palette:
    - What is the Command Palette in VS Code, and how can it be accessed? Provide examples of common tasks that can be performed using the Command Palette.
