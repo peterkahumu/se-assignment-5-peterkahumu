@@ -127,18 +127,56 @@ Answer the following questions based on your understanding of the installation a
    
 6. Integrated Terminal:
    - Describe how to open and use the integrated terminal in VS Code. What are the advantages of using the integrated terminal compared to an external terminal?
+      - Opening the Integrated Terminal.
+         - **Keyboard Shortcut:** `Ctrl+\``
+         - **Menu:** `view -> terminal` or `Terminal -> New Terminal`
+      - **Using the terminal:** Type commands and interact with the system as per your needs.
+
+      - **Advantages of Internal Terminal over the External Terminal.**
+         - Eliminates the need for switching between windows.
+         - Integrated features like error detection and clickable links within the terminal output, improving the workflow.
+         - Enables opening multiple terminals if working with different directories.
 
 7. File and Folder Management:
    - Explain how to create, open, and manage files and folders in VS Code. How can users navigate between different files and directories efficiently?
+      - **Creating files and folders** - Right click in the file explorer and select `new file` or `new folder.` Give the required name and or extension for files.
 
+      - **Opening files and folders** -  Double-click the file or folder you want to open in the File Explorer.
+
+      - **Managing Files and Folders** - Right-click on a file or folder to access various options for renaming, deleting, copying, cutting, pasting, and more. Drag and drop functionality is also available within the File Explorer**
+
+      - **Efficient Navigation** - VS Code offers powerful search and switch features like Quick Access (Cmd/Ctrl + P) to find files and symbols, and file switching (Ctrl/Cmd + Tab) to navigate between recently opened files.
 8. Settings and Preferences:
-   - Where can users find and customize settings in VS Code? Provide examples of how to change the theme, font size, and keybindings.
+   - Where can users find and customize settings in VS Code? Provide examples of how to change the theme, font size, and keybindings. 
+
+      - **Open Settings** - `Click on the setting Icon at the bottom of the action bar, just above the Status bar.` or use the keyboard shortcut `Ctrl + ,` to customize the settings.
+      
+      - **Changing the theme** - Search for "Color Theme" and select your desired theme from the dropdown.
+      - ** Adjust the Font size ** - Search for "Font Size" and adjust the slider or enter a specific pixel value.
+      - **Modify keybindings** - Search for "Keyboard Shortcuts" to open a comprehensive list of keybindings. You can modify existing ones or create new ones by clicking the edit icon next to the desired action.
 
 9. Debugging in VS Code:
    - Outline the steps to set up and start debugging a simple program in VS Code. What are some key debugging features available in VS Code?
-
+      - To start debugging in VS Code, first set up by installing necessary extensions and configuring launch settings in `launch.json`. Place breakpoints in your code to pause execution where needed, then start debugging with the play button or `F5`. Use intuitive controls to step through code (`F10`, `F11`), inspect variables and the call stack, and utilize the debug console for interactive debugging. VS Code supports multiple languages, offers flexible debugging configurations, and enhances code quality with features like conditional breakpoints and exception handling.
 10. Using Source Control:
     - How can users integrate Git with VS Code for version control? Describe the process of initializing a repository, making commits, and pushing changes to GitHub.
+
+      - To integrate Git with VS Code for version control:
+
+      1. **Initializing a Repository**:
+         - Open your project folder in VS Code.
+         - Click on the Source Control icon in the Activity Bar (Ctrl+Shift+G).
+         - Initialize a Git repository by clicking "Initialize Repository" and follow the prompts.
+
+      2. **Making Commits**:
+         - Stage changes by clicking the "+" button next to modified files in the Source Control view.
+         - Enter a commit message and click the checkmark icon to commit changes.
+
+      3. **Pushing Changes to GitHub**:
+         - Set up a remote repository on GitHub.
+         - Add the GitHub repository as a remote using `git remote add origin <remote_repository_url>`.
+         - Push changes to GitHub using `git push -u origin master` or your branch name.
+
 
  Submission Guidelines:
 - Your answers should be well-structured, concise, and to the point.
