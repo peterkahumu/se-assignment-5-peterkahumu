@@ -98,6 +98,17 @@ Answer the following questions based on your understanding of the installation a
 4. Command Palette:
    - What is the Command Palette in VS Code, and how can it be accessed? Provide examples of common tasks that can be performed using the Command Palette.
 
+      - Allows users to execurte commands quickly without navigating through the menus or remembering keyboard shortcuts
+    - It can be accessed through:
+      - **Keyboard shortcuts**: `Ctrl+Shift+P`.
+      - **Menu**: click on `view -> Command Palette`
+   - Main tasks  include:
+      - Open files and commands.
+      - Change Language Modes
+      - Git Operations
+      - Debugging
+      - Extensions Management
+
 5. Extensions in VS Code:
    - Discuss the role of extensions in VS Code. How can users find, install, and manage extensions? Provide examples of essential extensions for web development.
 
