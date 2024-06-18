@@ -21,23 +21,29 @@ Answer the following questions based on your understanding of the installation a
       b. Locate the installer and run it as an administrator.
 
       c. Accept the terms and conditions for the VS code.
+
       ![screenshot 1](./screenshots/Accept%20the%20terms%20and%20conditions.png)
 
       d. Select the default folder or leave it as default.
+
       ![screenshot 2](./screenshots/Select%20the%20start%20menu%20folder.png)
 
       e. Customize the installation settings if necessary or leave them as default.
+
       ![screenshot](./screenshots/Customize%20the%20installation%20settings%20if%20need%20be.png)
 
       f. Click next than install.
+
       ![screenshot](./screenshots/click%20next%20to%20install.png)
 
       g. Wait for the Vs Code to install.
+
       ![screenshot](./screenshots/wait%20for%20the%20visual%20studio%20to%20install.png)
 
       h. After the installation is complete, click finish, and wait for the welcome page to appear on the screen.
-      ![screenshot](./screenshots/Wait%20for%20vs%20code%20to%20launch%20and%20display%20the%20welcome%20screen.png)
       
+      ![screenshot](./screenshots/Wait%20for%20vs%20code%20to%20launch%20and%20display%20the%20welcome%20screen.png)
+
 
 2. First-time Setup:
    - After installing VS Code, what initial configurations and settings should be adjusted for an optimal coding environment? Mention any important settings or extensions.
