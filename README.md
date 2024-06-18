@@ -8,14 +8,14 @@ Answer the following questions based on your understanding of the installation a
  Questions:
 
 1. Installation of VS Code:
-   - Describe the steps to download and install Visual Studio Code on Windows 11 operating system. Include any prerequisites that might be needed.
+   - <u>Describe the steps to download and install Visual Studio Code on Windows 11 operating system. Include any prerequisites that might be needed.</u>
 
-      #### **PPEREQUISITES**
+      #### **PREREQUISITES**
       a. 1.6 GHZ or faster processor.
       b. 1 GB RAM Minimum, 2 GB recommended.
       c. 200  MB of available hard disk space.
 
-      #### **Installation Steps. **
+      #### *Installation Steps.*
       a. Visit the official download page: [VS Code Download Link](https://code.visualstudio.com/) and download the installer for windows  11. 
 
       b. Locate the installer and run it as an administrator.
@@ -41,12 +41,45 @@ Answer the following questions based on your understanding of the installation a
       ![screenshot](./screenshots/wait%20for%20the%20visual%20studio%20to%20install.png)
 
       h. After the installation is complete, click finish, and wait for the welcome page to appear on the screen.
-      
+
       ![screenshot](./screenshots/Wait%20for%20vs%20code%20to%20launch%20and%20display%20the%20welcome%20screen.png)
 
 
 2. First-time Setup:
-   - After installing VS Code, what initial configurations and settings should be adjusted for an optimal coding environment? Mention any important settings or extensions.
+   -<u> After installing VS Code, what initial configurations and settings should be adjusted for an optimal coding environment? Mention any important settings or extensions.</u>
+
+      - ***Settings***
+         - Enable autosaving.
+         
+         - Configure the tab size to the appropriate number of spaces.
+
+         - Enable word wrap.
+
+         - Set the default terminal to `git bash`.
+
+         - Adjust the themes to your liking.
+      
+      - ***Extensions***
+         - Install intelliscence for the different languages that you might need to use.
+
+         - Install the extensions to the programming languages you want to use. This includes:
+
+            - HTML/ CSS extensions.
+
+            - Live server and live preview files.
+
+            - Python extensions.
+
+            - Flutter.
+
+            - Dart.
+
+            - SQLite viewer.
+
+         - *NB*: ENSURE TO INSTALL VERIFIED EXTENSIONS
+
+      
+
 
 3. User Interface Overview:
    - Explain the main components of the VS Code user interface. Identify and describe the purpose of the Activity Bar, Side Bar, Editor Group, and Status Bar.
